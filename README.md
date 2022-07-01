@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdinyt01&label=Profile%20views&color=0e75b6&style=flat" alt="mdinyt01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdinyt01" alt="mdinyt01" /></a> </p>
-
 - 🔭 I’m currently working on **NASA SPACE CONTROL**
 
 - 💬 Ask me about **reactjs, nodejs and mongoDB**
